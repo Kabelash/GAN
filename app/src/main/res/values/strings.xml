@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Breaking Bad Characters</string>
+    <string name="img">Character Image</string>
+    <string name="title">Character Name</string>
+    <string name="character_details">Character Details</string>
+</resources>
